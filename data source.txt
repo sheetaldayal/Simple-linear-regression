@@ -5,3 +5,5 @@ https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64
 There are many datasets available on the link. I used the data file:
 
 2018 Fuel Consumption Ratings (2018-07-17)	Dataset	CSV	English
+
+PS. I've edited the headers in my CSV file for ease. So the code may vary a bit while running it. You can use it as you want.
